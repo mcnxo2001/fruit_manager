@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "reportName": "RP0001",
+        "nameFarm": "Minh Châu",
+        "importCode": "NA2001",
+        "property": [
+            {
+                "id": 1,
+                "nameFruit": "Cam",
+                "amount": 10,
+                "weightOfBox": 10,
+                "perfectWeightBox": 90
+            },
+            {
+                "id": 2,
+                "nameFruit": "Xoài",
+                "amount": 20,
+                "weightOfBox": 30,
+                "perfectWeightBox": 500
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "reportName": "RP0002",
+        "nameFarm": "Minh Châu",
+        "importCode": "NA163004",
+        "property": [
+            {
+                "id": 1,
+                "nameFruit": "Chanh",
+                "amount": 90,
+                "weightOfBox": 100,
+                "perfectWeightBox": 8000
+            },
+            {
+                "id": 2,
+                "nameFruit": "Mít",
+                "amount": 20,
+                "weightOfBox": 80,
+                "perfectWeightBox": 1600
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "reportName": "RP0003",
+        "nameFarm": "Minh Châu",
+        "importCode": "NA8888",
+        "property": [
+            {
+                "id": 1,
+                "nameFruit": "Kiwi",
+                "amount": 90,
+                "weightOfBox": 100,
+                "perfectWeightBox": 9000
+            },
+            {
+                "id": 2,
+                "nameFruit": "Mac Ca",
+                "amount": 20,
+                "weightOfBox": 80,
+                "perfectWeightBox": 1400
+            },
+            {
+                "id": 3,
+                "nameFruit": "Đào",
+                "amount": 30,
+                "weightOfBox": 80,
+                "perfectWeightBox": 1400
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "reportName": "BC0001",
+        "nameFarm": "Minh Châu",
+        "importCode": "NA8888",
+        "property": [
+            {
+                "id": 1,
+                "nameFruit": "Kiwi",
+                "amount": 50,
+                "weightOfBox": 50,
+                "perfectWeightBox": 2500
+            }
+        ]
+    }
+]

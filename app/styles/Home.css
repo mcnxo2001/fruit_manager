@@ -1,0 +1,64 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.navbar-brand {
+    font-family: inherit;
+}
+
+.nav-link {
+    font-family: inherit;
+}
+
+.collapse a {
+    cursor: pointer;
+}
+
+.btDelete {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.coverbtn {
+    display: flex;
+}
+
+.navbar-nav li {
+    width: 80px;
+}
+
+.nav-item a {
+    color: rgba(0, 0, 0, 0.607);
+}
+
+.form-group label {
+    font-size: 11px;
+}
+
+.fmAutocomplete{
+    padding-left: unset
+}
+
+.autocomplete-inline{
+    display: inline-block;
+}
+
+.fmAutocomplete li {
+    list-style: none;
+    width: 100%;
+    border: 1px solid #dee2e6;
+    padding: 0.5rem 0 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.fmAutocomplete li:hover{
+    background-color: rgba(182, 182, 182, 0.816);
+}
+
+.btnStyle{
+    height: 36px;
+}
