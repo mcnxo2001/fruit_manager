@@ -20,7 +20,7 @@ export default function Page() {
                       <div className="loginFormInfor col-lg-8 col-md-12 col-sm-12 m-0 p-0">
                           <Carousel />
                       </div>
-                      <div className="col-12 col-lg-4 col-md-12 col-sm-12 py-3" id="LoginArena">
+                      <div className="col-12 col-lg-4 col-md-12 col-sm-12 py-3 bg-white" id="LoginArena">
                           <LoginArena />
                       </div>
                   </div>
